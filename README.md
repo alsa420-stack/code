@@ -5,7 +5,7 @@ This project demonstrates a Multi-Agent System where a single Founder manages a 
 
 ## Links
 **Google Colab Notebook**: https://colab.research.google.com/drive/1mfi8CsDgpgQCGFEkyQRolIB-TWwGlwLA?usp=sharing
-* **UML Diagram:** [UML Diagram](Add files via upload.png)
+* **UML Diagram:** [UML Diagram](image.png)
 
 
 ## How to Run
