@@ -26,27 +26,35 @@ This method lets the company to expand naturally. As authority credibility and u
 
 3.	 Target Customers:
 The target customers of Icon 01 include:
+
 •	Independent designers (Freelance designers )who need high-quality templates 
+
 •	High-end event organizers looking for elegant invitation designs 
+
 •	New business owners who need professional brand logos 
+
 •	Private individuals preparing for special events (weddings, parties, etc.) 
+
 These users are typically looking for current, excellent, and simple use design solutions.
 
 
-4.	Why the Business Can Be Managed by One Person ?
+5.	Why the Business Can Be Managed by One Person ?
+   
 This company can be efficiently run by one Founder due to the fact that most operations run automatically using a Multi-Agent System. Each one of the virtual worker is responsible for a particular role   including design suggestions, money management, and performance evaluation (growth analysis).
  The owner just needs to oversee the setup, evaluate suggestions, and decide on final decisions. This lowers the requirement of many employees and keeps low operational costs while keeping strong productivity.
 
-5.	Proposed Agents & Responsibilities:
+7.	Proposed Agents & Responsibilities:
 The framework c consists of several intelligent agents, each responsible for a particular job :
 •	Icon-Identity Agent:
-Responsible for  creating brand concepts, suggesting color selections (such as Burgundy & Grey) ,and recommending contemporary fonts . 
+Responsible for  creating brand concepts, suggesting color selections (such as Burgundy & Grey) ,and recommending contemporary fonts .
+
 •	Growth-01 Agent:
 tasked  user expansion , tracking  interaction ,  and recommending   the perfect point to add advanced features.
+
 •	System-Finance Agent:
 Responsible for  watching  ad income, monitoring  costs, and ensuring that the zero-charge phase continues to be  financially stable .
 
-6.	 Example Interaction:
+9.	 Example Interaction:
 The owner connects with the setup via requesting information and getting insights from digital agents.
 Example:
 The Founder asks:  "When is the right time to introduce paid premium designs?"
@@ -59,43 +67,65 @@ Part C: System Planning and Design:
 1.	System Architecture:
 The system architecture of Icon 01 is created as a center system where the Founder acts as the controller of the system. The Founder work with multiple digital agents, each responsible for a specific business task.
 In my system there are some components such as:
+
 •	Founder (Who is creating and assigning tasks to digital agents) 
+
 •	Digital Agents (The are the ones who receive, process, and complete the tasks) 
+
 •	Tasks (Requests created by the Founder and handled by the Digital Agents) 
+
 •	Knowledge Base (stores business data) 
+
 •	Recommendation System (Presents recommendations clearly for Founder review.) 
+
 All components connect together to ensure steady and productive business operations. The Founder sends tasks to agents, agents process the tasks using stored knowledge, and then return recommendations.
 
 
-2.	 Multi-Agent Structure:
+3.	 Multi-Agent Structure:
 a.	Icon-Identity Agent:
 
 •	The Role: Branding and design Ideas 
+
 •	Tasks: Develop color families, fonts, logo ideas 
+
 •	Data Processed: Design trends, user preferences 
 
 b.	Growth-01 Agent:
+
 •	The Role: Business growth and strategy
+
 •	Tasks: Analyze user growth, Monitor engagement rates, and Suggest pricing strategies
+
 •	Data Processed: Number of users, User activity and interaction, and Growth rate
+
 c.	 System-Finance Agent:
+
 •	The Role: Budget analysis, expense tracking and Profit calculation
+
 •	Tasks: Track expenses, Monitor revenue, calculate budgets, analyze financial performance
+
 •	Data Processed: Income and revenue data, expenses and costs, Profit/loss trends
 
 
 
 3.	System Classes:
 I created my system by using Object-Oriented Programming with the following main classes:
+
 •	Founder Class: Controls decisions and creates tasks 
+
 •	Agent Class: Base class for all agents 
+
 •	Task Class: Represents tasks assigned to agents 
+
 •	KnowledgeBase Class: Stores system data 
+
 •	Recommendation Class: Stores agent outputs 
+
 •	Memory Class: It is store decisions ,apply Encapsulation and review history document work
+
 Also, I used the Inheritance where all agents inherit from the main Agent class
 
-4.	UML Class Diagram:
+5.	UML Class Diagram:
 Founder:
 •	creates: Task
 •	reviews: Recommendation
