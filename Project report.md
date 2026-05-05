@@ -1,4 +1,5 @@
 #Part A:
+
 ##1-The Concept of OPC (One-Person Company):
 •	A One-Person Company (OPC) is a business object where a one Founder manages all business operations alone. But with the support of modern digital systems and intelligent software, the Founder can automate tasks such as client management, financial monitoring, and decision-making, reducing the need for human employees.
 
@@ -7,9 +8,9 @@ The structure built from several key components: the Owner or Founder as the mai
 
 3. Role of Multi-Agent Systems:
 Multi-agent systems enable various agents to perform different tasks all at once, such as marketing, accounting, and client service. They work together and exchange data to give precise recommendations to the owner.
+
 4.Programming Perspective (OOP) :
 The setup can be developed via Object-Oriented Programming (OOP) by representing each elements as a class, such as Founder, Agent, and Task. Ideas such as, inheritance and encapsulation support in ordering the system and increasing reuse of code.
-
 
 
 
