@@ -1,4 +1,4 @@
-Part A:##
+Part A:#
 1-The Concept of OPC (One-Person Company):##
 •	A One-Person Company (OPC) is a business object where a one Founder manages all business operations alone. But with the support of modern digital systems and intelligent software, the Founder can automate tasks such as client management, financial monitoring, and decision-making, reducing the need for human employees.
 
