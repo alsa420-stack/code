@@ -1,8 +1,8 @@
 #Part A:
-1-The Concept of OPC (One-Person Company):##
+##1-The Concept of OPC (One-Person Company):
 •	A One-Person Company (OPC) is a business object where a one Founder manages all business operations alone. But with the support of modern digital systems and intelligent software, the Founder can automate tasks such as client management, financial monitoring, and decision-making, reducing the need for human employees.
 
-2. Architecture of the System:##
+##2. Architecture of the System:
 The structure built from several key components: the Owner or Founder as the main decision-maker, digital agents responsible for specific tasks, and system elements. For example, databases and information libraries. These components work together to make sure efficient business operations. 
 
 3. Role of Multi-Agent Systems:
